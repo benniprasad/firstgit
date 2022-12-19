@@ -38,6 +38,9 @@ public class FrameEx extends Frame {
      f.add(c1," 5th");
 
      //fl.last(f);
+     public void(){
+      System.out.println("m1");
+     }
   }  
 }
 class MyListener implements WindowListener{
